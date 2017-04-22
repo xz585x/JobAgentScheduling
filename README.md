@@ -15,7 +15,7 @@ Run java project in command prompt (Windows):
 
 
 
-cd …\JobAgentScheduling\prod\JobAgentScheduling_jar
+cd ...\JobAgentScheduling\prod\JobAgentScheduling_jar
 
 
 

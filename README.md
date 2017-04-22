@@ -1,4 +1,13 @@
 # JobAgentScheduling
+Established 4 algorithm for bin-packing of job agent scheduling
+Best Fit
+First Fit
+Next Fit
+Worst Fit
+
+Best Fit shows the best performance
+
+How to check it with Command Prompt:
 
 download JobAgentScheduling
 

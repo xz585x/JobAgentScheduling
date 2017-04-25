@@ -1,4 +1,5 @@
 # JobAgentScheduling
+Please check the PPT for more detailed explanation.
 Established 4 algorithm for bin-packing of job agent scheduling
 Best Fit
 First Fit
@@ -20,3 +21,7 @@ cd ...\JobAgentScheduling\prod\JobAgentScheduling_jar
 
 
 java -jar JobAgentScheduling.jar
+
+
+
+
